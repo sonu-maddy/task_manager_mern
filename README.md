@@ -8,7 +8,7 @@ TaskManager is a **productivity tool** designed to help you manage your tasks ef
 
 ![Demo Image](./testing-clips/home.png)
 ![Demo Image](./testing-clips/login.jpg)
-![Demo Image](./testing-clips/task_manager.jpg)
+
 
 ### **Features:**
 
