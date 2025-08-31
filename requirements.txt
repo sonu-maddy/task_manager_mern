@@ -1,0 +1,11 @@
+npm install
+mongodb
+mongoose
+express
+joi
+jsonwebtoken
+toastify-react
+icons-react
+body-parser
+dotenv
+...etc
